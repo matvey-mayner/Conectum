@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php
-	include "../html/header.php"
+	include "../html/header.php";
 ?>
 	 <div class="container">
 	 <h2>Registration</h2>
@@ -24,3 +24,7 @@
         </ul>
 	</div>
 </body>
+
+<?php
+    include "../html/footer.html";
+?>
