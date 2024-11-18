@@ -1,5 +1,5 @@
 <?php
-  include '../html/db.php';
+  include './html/db.php';
 ?>
     <style>
         body {
