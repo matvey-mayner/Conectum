@@ -8,7 +8,7 @@
 <body>
 
 <?php
-	include "../html/header.php";
+	include "./html/header.php";
 ?>
 	 <div class="container">
          <ul>
@@ -18,5 +18,5 @@
 </body>
 
 <?php
-    include "../html/footer.html";
+    include "./html/footer.php";
 ?>
