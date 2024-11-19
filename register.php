@@ -8,6 +8,10 @@
 <body>
 <?php
 	include "./html/header.php";
+	$login = $_POST['login'];
+	$pass = $_POST['pass'];
+	$reppass = $_POST['reppass'];
+	$email = $_POST['email'];
 ?>
 	 <div class="container">
 	 <h2>Registration</h2>
